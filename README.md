@@ -1,5 +1,5 @@
-# Neuronal_growth
-Picture recognition of nueronal growth from two-photon live microscopy images.
+# metaNeuron
+Neural network-based recognition of nueronal growth from two-photon live microscopy images.
 
 ## Concept outline
 
