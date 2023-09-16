@@ -15,8 +15,6 @@ Neural network-based recognition of nueronal growth from two-photon live microsc
 
 ### Training
 - Choice/design of the loss function depending on the goal.
-  - First milestone: direct prediction of the number of protrusions.
-  - Second milestone: measurement of growth rate (relative scale)
 - Appropriate metrics based on outcome.
 
 ### Post-Processing
