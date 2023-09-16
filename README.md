@@ -23,3 +23,11 @@ Neural network-based recognition of nueronal growth from two-photon live microsc
 - Apply a threshold to the model's output to identify protrusions.
 - Clustering in 3D space. Grouping of detected regions belonging to the same protrusion. (DBSCAN)
 - Count the number of identified protrusions in each 3D image.
+
+### Project milestones:
+1. Basic segmentation 
+1.1 Test annotations with [pre-trained 3D U-Net model](https://github.com/wolny/pytorch-3dunet)
+1.2 Build 2D [U-net](https://arxiv.org/abs/1505.04597) model
+1.3 Expand 2D network to 3D
+2. Tracking the amount of dendrites
+3. Tracking of growth rate
